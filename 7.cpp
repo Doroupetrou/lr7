@@ -11,7 +11,7 @@ int main()
     
     cout << "Enter x: ";
     cin >> x;
-    cout << "Enter y: ";
+    cout << "Enter your y: ";
     cin >> y;
     
     for(n=1; n<=5; n++){
